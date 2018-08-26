@@ -130,7 +130,8 @@ a:hover, a.active {
 }
 
 #droppable-zone.hover {
-  border: 10px dashed #aaa;
+  border: 10px dashed cyan;
+  color : #a2a2d0 
 }
 
 #droppable-zone-wrapper {
@@ -145,6 +146,7 @@ a:hover, a.active {
   vertical-align: middle;
   font-size: 33px;
   overflow: hidden;
+  color : white;
 }
 
 .droppable-file {
