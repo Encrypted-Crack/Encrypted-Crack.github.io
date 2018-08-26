@@ -109,7 +109,7 @@ a:hover, a.active {
 }
 
 .description {
-  color: gray;
+  color: cyan;
   margin: 10px 0;
 }
 
@@ -236,7 +236,7 @@ textarea {
 .btn:hover,
 .btn:focus,
 .btn.focus {
-  color: #333;
+  color: cyan;
   text-decoration: none;
 }
 .btn:active,
