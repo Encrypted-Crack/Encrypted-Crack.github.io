@@ -2,7 +2,7 @@ body, html, h1, h2 {
   margin: 0;
   padding: 0;
   font-family: "SF Pro TC","SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
-  color: #333;
+  color: cyan;
 }
 
 a, a:visited {
@@ -15,7 +15,7 @@ a:hover, a.active {
 }
 
 #header {
-  background-color: #2d2d2d;
+  background-color: black;
   color: cyan;
   text-align: center;
 }
@@ -28,6 +28,7 @@ a:hover, a.active {
   width: 1024px;
   margin: 0 auto;
   margin-top: 20px;
+  color : black
 }
 
 #body:after {
@@ -84,7 +85,7 @@ a:hover, a.active {
 
 .menu li a:hover, .menu li a.active {
   padding-left: 19px;
-  border-left: 1px solid #828282
+  border-left: 1px solid green
 }
 
 #index:after {
@@ -257,9 +258,9 @@ fieldset[disabled] .btn {
   opacity: .65;
 }
 .btn-default {
-  color: #333;
-  background-color: #fff;
-  border-color: #ccc;
+  color: cyan;
+  background-color: black;
+  border-color: cyan;
 }
 .btn-default:hover,
 .btn-default:focus,
@@ -294,8 +295,8 @@ fieldset[disabled] .btn-default:active,
 .btn-default.disabled.active,
 .btn-default[disabled].active,
 fieldset[disabled] .btn-default.active {
-  background-color: #fff;
-  border-color: #ccc;
+  background-color: black;
+  border-color: cyan;
 }
 .btn-default .badge {
   color: #fff;
