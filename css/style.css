@@ -6,12 +6,12 @@ body, html, h1, h2 {
 }
 
 a, a:visited {
-  color: #828282;
+  color: green;
   text-decoration: none;
 }
 
 a:hover, a.active {
-  color: #4183c4;
+  color: cyan;
 }
 
 #header {
@@ -267,9 +267,9 @@ fieldset[disabled] .btn {
 .btn-default:active,
 .btn-default.active,
 .open > .dropdown-toggle.btn-default {
-  color: #333;
-  background-color: #e6e6e6;
-  border-color: #adadad;
+  color: cyan;
+  background-color: black;
+  border-color: cyan;
 }
 .btn-default:active,
 .btn-default.active,
