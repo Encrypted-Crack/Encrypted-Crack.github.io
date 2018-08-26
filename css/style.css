@@ -201,7 +201,7 @@ textarea {
   padding-bottom: 40px;
   font-size: 12px;
   line-height: 1.5;
-  color: #777;
+  color: cyan;
   border-top: 1px solid #eee;
   text-align: center;
 }
@@ -302,6 +302,6 @@ fieldset[disabled] .btn-default.active {
   border-color: cyan;
 }
 .btn-default .badge {
-  color: #fff;
-  background-color: #333;
+  color: cyan;
+  background-color: black;
 }
