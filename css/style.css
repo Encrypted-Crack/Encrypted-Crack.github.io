@@ -16,12 +16,12 @@ a:hover, a.active {
 
 #header {
   background-color: #2d2d2d;
-  color: white;
+  color: cyan;
   text-align: center;
 }
 
 #header a {
-  color: white;
+  color: cyan;
 }
 
 #body {
