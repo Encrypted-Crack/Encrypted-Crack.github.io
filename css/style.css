@@ -2,12 +2,12 @@ body, html, h1, h2 {
   margin: 0;
   padding: 0;
   font-family: "SF Pro TC","SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
-  color: cyan;
+  color: red;
   background-color: black;
 }
 
 a, a:visited {
-  color: cyan;
+  color: red;
   text-decoration: none;
 }
 
@@ -17,19 +17,19 @@ a:hover, a.active {
 
 #header {
   background-color: black;
-  color: cyan;
+  color: red;
   text-align: center;
 }
 
 #header a {
-  color: cyan;
+  color: red;
 }
 
 #body {
   width: 1024px;
   margin: 0 auto;
   margin-top: 20px;
-  color : cyan;
+  color : red;
 }
 
 #body:after {
@@ -111,7 +111,7 @@ a:hover, a.active {
 }
 
 .description {
-  color: cyan;
+  color: red;
   margin: 10px 0;
 }
 
@@ -130,7 +130,7 @@ a:hover, a.active {
 }
 
 #droppable-zone.hover {
-  border: 10px dashed cyan;
+  border: 10px dashed red;
   color : #a2a2d0 
 }
 
@@ -201,7 +201,7 @@ textarea {
   padding-bottom: 40px;
   font-size: 12px;
   line-height: 1.5;
-  color: cyan;
+  color: red;
   border-top: 1px solid #eee;
   text-align: center;
 }
@@ -240,7 +240,7 @@ textarea {
 .btn:hover,
 .btn:focus,
 .btn.focus {
-  color: cyan;
+  color: red;
   text-decoration: none;
 }
 .btn:active,
@@ -261,9 +261,9 @@ fieldset[disabled] .btn {
   opacity: .65;
 }
 .btn-default {
-  color: cyan;
+  color: red;
   background-color: black;
-  border-color: cyan;
+  border-color: red;
 }
 .btn-default:hover,
 .btn-default:focus,
@@ -271,9 +271,9 @@ fieldset[disabled] .btn {
 .btn-default:active,
 .btn-default.active,
 .open > .dropdown-toggle.btn-default {
-  color: cyan;
+  color: red;
   background-color: black;
-  border-color: cyan;
+  border-color: red;
 }
 .btn-default:active,
 .btn-default.active,
@@ -299,9 +299,9 @@ fieldset[disabled] .btn-default:active,
 .btn-default[disabled].active,
 fieldset[disabled] .btn-default.active {
   background-color: black;
-  border-color: cyan;
+  border-color: red;
 }
 .btn-default .badge {
-  color: cyan;
+  color: red;
   background-color: black;
 }
